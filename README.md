@@ -5,7 +5,7 @@ https://mackenzie365-my.sharepoint.com/:w:/r/personal/10433696_mackenzista_com_b
 
 # Objetivo do Projeto
 
-O projeto visa desenvolver um sistema de recomendação de livros utilizando dados colaborativos do Goodreads e técnicas de Aprendizado de Máquina. O objetivo é oferecer recomendações personalizadas que estimulem o hábito da leitura, promovendo diversidade de gêneros e alinhamento ao ODS 4 da ONU.
+Este projeto busca apoiar a reversão da queda nos índices de leitura por meio de um sistema de recomendação de livros personalizado. Usando dados do Goodreads e técnicas de Machine Learning, o modelo pretende ampliar o acesso a conteúdos diversos, incentivando a leitura e contribuindo para os objetivos do ODS 4 da ONU.
 
 # Equipe
 
